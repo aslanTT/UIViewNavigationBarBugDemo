@@ -1,0 +1,2 @@
+# UIViewNavigationBarBugDemo
+系统push＋手势返回过程必现的一个bug，demo演示，详细步骤见BaseViewController
